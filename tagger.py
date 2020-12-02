@@ -8,6 +8,7 @@ from tabula import read_pdf
 from concurrent.futures import ThreadPoolExecutor
 from bs4 import BeautifulSoup
 
+nltk.download('stopwords')
 stopwords1 = set(nltk.corpus.stopwords.words('english'))
 ldamod = gensim.models.ldamodel.LdaModel.load('LDAModel/GeoTrackerLDA')
 
