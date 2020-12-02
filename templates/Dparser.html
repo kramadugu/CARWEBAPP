@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<title> CAR WEB Application </title>
+<h1> Web Application for CAR Analytics Capability Demo</h1>
+<form method="post">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;padding:2px;border-spacing:20px;">
+<tr>
+<td><input type="submit" value="Document Summarizer" name="summary" style="height:150px; width:200px;font-size:30px;white-space: normal;"/></td>
+<td><input type="submit" value="Topic Identification" name="topic" style="height:150px; width:200px;font-size:30px;white-space: normal;" /></td>
+<td><input type="submit" value="Table of Contents" name="toc" style="height:150px; width:200px;font-size:30px;white-space: normal;"/></td>
+<tr>
+<tr>
+<td><input type="submit" value="Table Indexing" name="tabletag" style="height:150px; width:200px;font-size:30px;white-space: normal;" /></td>
+<td><input type="submit" value="Image Extraction" name="imext" style="height:150px; width:200px;font-size:30px;white-space: normal;"/></td>
+<td><input type="submit" value="Image Tagging" name="imtag" style="height:150px; width:200px;font-size:30px;white-space: normal;" /></td>
+<tr>
+<tr>
+<td><input type="submit" value="Boring Log Extraction" name="blog" style="height:150px; width:200px;font-size:30px;white-space: normal;" /></td>
+<tr>
+</form>
+</table>
+<div id="logo"> 
+	<img src="{{ url_for('static', filename='ghd-logo.jpg') }}"> 
+</div>
+<div id="HOME"> 
+<form method="post">
+<input type="submit" value="HOME" name="home"/>
+</form>
+</div>
+</html>

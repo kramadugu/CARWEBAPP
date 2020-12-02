@@ -1,0 +1,47 @@
+Conestoa-Rovers & Associates, Inc.
+BORING / WELL LOG
+5900 Hollis Street, Suite A
+GRVA
+Emeryville, CA 94608
+Telephone: 510-420-0700
+Fax: 510-420-9170
+CLIENT NAME
+Chevron Environmental Management Company
+BORING/WELL NAME
+CPT-1
+JOB/SITE NAME
+76 Seervice Station 1871 (351644)
+DRILLING STARTED
+26-Oct-11
+LOCATION
+66-96 MacArthur Blvd, Oakland, CA
+DRILLING COMPLETED
+26-Oct-11
+Continued from Previous Page
+GEOLOGIC DESCRIPTION
+WELL DIAGRAM
+44.5
+0
+CPT-1-S-45
+Sandy SILT:brown; dry; stiff; low plasticity.
+45
+ML
+45.5
+49.5
+SILT: brown; moist; stiff; low plasticity.
+50
+ML
+50.5
+54.5
+SILT:brown; moist; stiff; low plasticity.
+55
+ML
+55.5
+59.5
+MI
+SILT: brown; moist; stiff; low plasticity.
+60.0
+60
+Bottom of Boring
+@ 60 fbg
+PAGE 3 OF 3

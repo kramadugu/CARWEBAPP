@@ -1,0 +1,38 @@
+
+<html>
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<title> CAR WEB Application </title>
+<h1> Web Application for CAR Analytics Capability Demo</h1>
+<div id="logo"> 
+	<img src="{{ url_for('static', filename='ghd-logo.jpg') }}"> 
+</div>
+<table>
+<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+<tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+<tr><td><h4>Select Site</h4></td></tr>
+<tr><td>
+<form method="post">
+  <input list="Sites" name="site">
+  <datalist id="Sites">
+  <option value="5_Appendix-D_FINAL-Geosyntec-Phase-I-ESA-April-2019">
+<option value="All_Image Referencing_Site Plan Application_Image Reference_2017-08-11 - Phase I Environmental Site Assessment - D07-12-17-0093">
+<option value="bc-phase-I-ESA-sample-report">
+<option value="CHR_EA_AppendixD_Ph1ESA_small">    
+  </datalist>
+  <input type="submit">
+</form>
+</td></tr>
+<table>
+<div id='SIte Details'>
+<!-- This is a comment -->
+<div>
+<div id="HOME"> 
+<form method="post">
+<input type="submit" value="HOME" name="home"/>
+</form>
+</div>
+</html>

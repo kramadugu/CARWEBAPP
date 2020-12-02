@@ -1,0 +1,99 @@
+Site Id,file_name,TOC Present,Introduction Present,Executive Summary Present,EDR Date,Address,EDR Latitude,EDR Longitude,EDR ZONE,EDR UTMX,EDR UTM Y,EDR Elevation,EDR Environmental Professional Flag,EDR Client Name,ASTM Followed,Formatted Address,Country,UST Presence,AST Presence,Data Failure Flag,EDR Search Findings,Scanned PDF Flag,Wetland Flag,Date Prepared,Acreage,PhaseI Score,Agri Land Flag,soil_type,physical_prop,geo_period,flow_direction
+1,progress_corp,TRUE,TRUE,TRUE,,"south of the Progress Corpore Park in Alachua, Florida, 32615",,,,,,,1,,1,"Progress Blvd, Alachua, FL 32615, United States",United States,1,1,0,,Not Fully Scanned PDF: Text is present,1,May-12,350 acres,0.934882425,1,"['sausage', 'fine', 'Arrendondo', 'flow', 'Reserve', 'sand', 'Kendrick', 'Groundwater', 'ground', 'Meade', 'inches', 'groundwater', 'Detail', 'Maps', 'below', 'Alachua', '350-acre']","['deep', 'excessively', 'drained', 'well', 'rates', 'infiltration']",[],southeast.
+2,alamo_solar_site,TRUE,TRUE,TRUE,"January 15, 2013","Alamo Solar Site Alamo Solar Site Oro Grande, CA 92368",34.6882000 - 34˚ 41’ 17.52’’,117.3453000 - 117˚ 20’ 43.08’’,11,468371,3838324.2,2503,1,,1,Address not found by Google Places API,Country not Found,1,0,0,"                     Item Total
+40                    UST     1
+68               HIST UST     1
+69             SWEEPS UST     1
+111  San Bern. Co. Permit     3",Not Fully Scanned PDF: Text is present,0,"arch 6, 2013",172 acres,0.905151263,1,"['Transverse', 'Fault', 'Desert', 'fine', 'sand', 'Garlock', 'Lohantan', 'alluvial', 'Ranges', 'groundwater', 'unconsolidated', 'Webb', 'Recharge', 'gravel', 'clay', 'fan', 'Gabriel', 'deposits', 'Geomorphic', 'Province', 'silt', 'Pinto', 'Mountains', 'coarse', 'River', 'South', 'silty', 'Groundwater', 'Basin', 'alluvium', 'Valley', 'sandy']","['dense', 'very']","['Pleistocene', 'Quaternary']",Not Found
+3,20171204_ShipWreckPhaseI_ESA_Front_red,TRUE,TRUE,FALSE,,"1938 King Salmon Avenue, Eureka, California, and properties identified by Assessor’s parcel numbers  305-162-006, -008 and -011",,,,,,,1,,1,"1938 King Salmon Ave, Eureka, CA 95503, USA",USA,1,0,0,,Not Fully Scanned PDF: Text is present,0,ecember 2017,2.3 acres,0.882863596,0,"['gravel', 'sediments', 'sand', '2000', 'silt', 'Groundwater', 'alluvial', 'River', 'loam', 'Marsh', 'deposits', 'sandy', 'fill', 'silty']","['rates', 'infiltration']","['Pleistocene', 'Holocene']",Not Found
+4,alta_sierra,TRUE,TRUE,TRUE,"June 17, 2014","10166 Alta Sierra Drive 10166 Alta Sierra Drive Grass Valley, CA 95949",39.1398000 - 39˚ 8’ 23.28’’,121.0689000 - 121˚ 4’ 8.04’’,10,666898.6,4333858,1942,1,"EnviroBusiness, Inc.",1,"10166 Alta Sierra Dr, Grass Valley, CA 95949, USA",USA,0,0,0,"                      Item Total
+35                    LUST     1
+40                     UST     1
+67              CA FID UST     2
+68                HIST UST     2
+69              SWEEPS UST     2
+105           HIST CORTESE     1
+106          CUPA Listings     3
+134  EDR US Hist Auto Stat     1
+139               RGA LUST     1",Not Fully Scanned PDF: Text is present,0,"July 8, 2014",1.0 acres,0.909281597,0,"['#', 'groundwater', '4.2.3', 'Interviews', 'located', 'clay', 'Creek', 'depths', 'Maps', 'Sierra', 'loam', 'gradients', 'silt', 'inches', 'Rattlesnake', 'gravelly', 'laccoliths', 'California', 'Valley', 'limited']","['deep', 'moderately', 'drained', '4.3', '1895', 'approximately', 'well', '1987']",[],west-southwest.
+5,otay_ranch_parcelab_no_edr,TRUE,TRUE,TRUE,,"north of Otay Lakes Road within an unincorpored area of Chula Vista, San Diego County, California",,,,,,,1,,1,"Otay Lakes Rd, Chula Vista, CA, USA",USA,1,1,0,,Not Fully Scanned PDF: Text is present,0,"November 5, 2010",719.022 acres,0.971609525,1,"['fine', 'rapid', 'loams', 'Subarea', 'Slow', 'gravel', 'Batholith', 'Deep', '5.3.2', 'clay', 'quadrangle', 'Hydrogeological', 'loam', 'Santiago', 'silt', 'low', 'rock', 'Mountains', 'below', 'Miguel', 'Moderately', 'California', 'alluvium', '2002', 'sandy']","['well', 'very', 'deep']","['Miocene', 'Jurassic', 'Oligocene', 'Tertiary', 'Cretaceous']",south-southwest.
+6,indianpolis,TRUE,TRUE,TRUE,"January 10, 2011","052029 - Indianapolis, IN 6900 English Avenue Indianapolis, IN 46219",39.764100 - 39˚ 45’ 50.8’’,86.049100 - 86˚ 2’ 56.8’’,16,581450,4401798,836,0,Conestoga-Rovers & Associates,1,"6900 English Ave, Indianapolis, IN 46219, USA",USA,0,0,1,,Not Fully Scanned PDF: Text is present,0,"ULY 25, 2011",88 acres,0.940413661,1,"['gravel', 'Midwest', 'sand', 'silt', 'groundwater', '2005']",[],[],to the west or southwest.
+7,geosyntec,TRUE,TRUE,TRUE,"February 28, 2019","SBIA Eastgate Building 1 Site 2037-2199 E Perimeter Rd San Bernardino, CA 92408",34.1063460 - 34˚ 6’ 22.84’’,117.2294540 - 117˚ 13’ 46.03’’,11,478836.4,3773776.5,1137,1,GeoSyntec Consultants,1,Address not found by Google Places API,Country not Found,1,1,0,"                     Item Total
+2                     NPL     1
+9                    SEMS     1
+13               CORRACTS     1
+15              RCRA-TSDF     1
+18               RCRA-SQG     2
+23        US ENG CONTROLS     1
+24        US INST CONTROL     1
+30             ENVIROSTOR     4
+35                   LUST     8
+41                    UST     2
+42                    AST     2
+64         HIST Cal-Sites     1
+68             Toxic Pits     1
+71             SWEEPS UST     1
+72               HIST UST     5
+74             CA FID UST     1
+79                   DEED     1
+82                 CHMIRS     1
+89                    DOD     1
+95                   TRIS     1
+97                    ROD     1
+101                  PADS     1
+119                 FINDS     2
+120                  ECHO     1
+122                   UXO     4
+124     CA BOND EXP. PLAN     1
+132                HAZNET     3
+134          HIST CORTESE     6
+140  San Bern. Co. Permit    16
+151                 CIWQS     1
+162         EDR Hist Auto     1
+168           - Totals --    74",Not Fully Scanned PDF: Text is present,0,Apr-19,101.5 acres,0.952027626,1,"['Fault', 'PIESA_F_20190401', 'vehicle', '9.4.4.1', 'CalFire', 'sand', 'drum', '9.4.2.4', 'alluvial', 'groundwater', 'Derrik', 'Municipal', 'levels', 'ASTs', '2019', 'Kapalla', 'gravel', '9.4.2.5', 'drainage', 'Uses', 'Gabriel', 'reasonable', 'Bunker', 'Baumwirt', 'Hangar', 'Discharge', 'Wells', 'hydrants', 'debris', 'fire', 'Sheriff', 'silt', 'Joshua', 'River', 'below', 'Recon', 'Douglas', 'Road', 'silty', 'Hill', 'sediments', 'uses', 'gallon', 'alluvium', 'recognizes', 'Hanger', '9.4.2.6', 'fluvial']","['destruction', 'well', 'drum']",['Quaternary'],southwest.
+8,sandiego_aecom,TRUE,TRUE,TRUE,"June 26, 2015","Qualcomm Stadium 9449 Friars Rd San Diego, CA 92108",32.7833000 - 32˚ 46’ 59.88’’,117.1197000 - 117˚ 7’ 10.92’’,11,488790.6,3627080,64,0,,1,"9449 Friars Rd, San Diego, CA 92108, United States",United States,0,1,0,,Not Fully Scanned PDF: Text is present,0,Jul-15,166 acres,0.918329403,1,"['fine', 'sand', 'alluvial', 'fill', 'gravel', 'drainage', 'clay', 'Diego', 'deposits', 'Google', 'silt', 'Canyon', 'landslide', 'River', 'coarse', 'gravelly', 'Groundwater', 'dense', 'alluvium', 'sandy', 'Murphy']","['excessively', 'drained', 'very', 'slow', 'rates', 'infiltration']","['Eocene', 'Tertiary', 'Cenozoic']",southwesterly
+9,ramona_california,TRUE,TRUE,TRUE,"October 21, 2013","Creelman 1001-1005 Creelman Ln Ramona, CA 92065",33.0204000 - 33˚ 1’ 13.44’’,116.8601000 - 116˚ 51’ 36.36’’,11,513066.2,3653366,1459,1,Haley & Aldrich,1,"1001 Creelman Ln, Ramona, CA 92065, USA",USA,1,0,1,"                      Item Total
+30              ENVIROSTOR     1
+137  EDR US Hist Auto Stat     2",Not Fully Scanned PDF: Text is present,0,Dec-13,37.09 acres,0.847402886,1,"['Ramona', 'groundwater', 'Jim', 'Riley', '2002', 'Maria', 'below', 'loam', 'sandy']",[],['Cretaceous'],west-southwesterly
+10,bradburn_boulevard,TRUE,TRUE,TRUE,,"7225 Bradburn Boulevard, Adams County, Westminster, Colorado",,,,,,,0,,1,"7225 Bradburn Blvd, Westminster, CO 80030, USA",USA,1,0,1,,Not Fully Scanned PDF: Text is present,0,"February 28, 2017",64 acres,0.905991651,0,"['P.G.', 'Schruben', 'located', 'flow', 'Creek', 'Data', 'Dry', 'Arndt', 'loam', 'Ulm', 'Localized', 'silty']","['drained', 'slow', 'well', 'rates', 'infiltration']","['Cenozoic', 'Mesozoic', 'Cretaceous']",south east direction.
+11,fines_eden,TRUE,TRUE,FALSE,"October 26, 2012","Fines-Eden Hills Phase I ESA 1805 Country Club Drive Escondido, CA 92029",33.1110000 - 33˚ 6’ 39.60’’,117.1294000 - 117˚ 7’ 45.84’’,11,487926.9,3663408.5,641,1,,1,Address not found by Google Places API,Country not Found,1,1,0,"                 Item Total
+30         ENVIROSTOR     1
+33             SWF/LF     1
+38               SLIC     1
+39  SAN DIEGO CO. SAM     1",Not Fully Scanned PDF: Text is present,0,"DECEMBER 7, 2012",48 acres,0.959951699,1,"['Very', 'fine', 'sand', 'Pasas', 'Sandy', 'Ranges', 'Fine', 'Las', 'Webb', 'Equestrian', 'nonmarine', 'clay', 'Diego', 'deposits', 'loam', '2012', 'Club', 'terrace', 'Angeles', 'silt', 'ground', 'very', 'geomorphic', 'Quadrangle', 'coarse', 'Whitney', 'surface', 'Loam', 'sediments', 'Coarse', 'California', 'Meridian', 'ravines', 'shows', 'Basin', 'alluvium', 'Baja', '2.2.3', 'sandy', 'Wyman', 'Visalia']","['deep', 'drained', 'very', '100-feet', 'indicates']","['Jurassic', 'Mesozoic', 'Quaternary', 'Cenozoic', 'Triassic']",Not Found
+12,jacumba_diff_edr,TRUE,FALSE,TRUE,,after the Reference Section,,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,0,1,,Not Fully Scanned PDF: Text is present,0,"June 21, 2011",302.33 acres,0.732467815,0,"['batholith', 'Rowley', 'Flow', '’s', 'Groundwater', 'California', 'Ranges', 'Melissa', 'Diego', 'River', 'below', 'Land', 'Krazan', 'Colorado', 'north', 'Assessments']",[],"['Pleistocene', 'Cretaceous']",generally to the northwest.
+13,residential_property,TRUE,TRUE,TRUE,"June 29, 2016","Single Family House & Former Ag Land 16919 FOUR GEE RD SAN DIEGO, CA 92127",33.0228100 - 33˚ 1’ 22.11’’,117.1203130 - 117˚ 7’ 13.12’’,11,488763.5,3653631,504,1,Coast 2 Coast Env.,1,"16919 Four Gee Rd, San Diego, CA 92127, USA",USA,1,1,0,"                   Item Total
+30           ENVIROSTOR     3
+35    SAN DIEGO CO. SAM     1
+65                  SCH     2
+67   San Diego Co. HMMD     1
+145       EDR Hist Auto     1
+151         - Totals --     8",Not Fully Scanned PDF: Text is present,0,"July 13, 2016",9.1563 acres,0.92693238,1,"['loams', 'sediments', 'clay', 'Kennedy', 'groundwater', 'coarse', 'Linne', 'Diego', 'Huerhuero', 'medium', 'loam', 'Salinas', 'sandy', 'Hydrogeological', 'pecific', ',', 'Fullerton', '2007']","['deep', 'drained', 'moderately', 'very', 'permeability', 'slow', 'well']",[],west- southwest.
+14,metro_west_facility,TRUE,TRUE,FALSE,,,,,,,,,1,,1,"541 Sunset Ln # 301, Culpeper, VA 22701, United States",United States,1,0,1,,Not Fully Scanned PDF: Text is present,1,Jul-10,11 acres,0.987689145,0,"['Greene', 'land', 'Urban', 'Ground', 'reported', 'rock', '4.3', 'groundwater', 'RECs', 'North', 'F.', 'Runoff/', 'south', 'Surface', 'Cretaceous']",['years'],"['Mesozoic', 'Cretaceous']",Not Found
+15,lone_oak_rod_california,TRUE,TRUE,TRUE,"September 16, 2013","Lone Oak Road 1535 Lone Oak Road Vista, CA 92084",33.1832000 - 33(cid:219) 10’ 59.52’’,117.1990000 - 117(cid:219) 11’ 56.40’’,11,481448.3,3671422.8,547,1,Rincon,1,"1535 Lone Oak Rd, Vista, CA 92084, USA",USA,0,0,1,"                  Item Total
+66  San Diego Co. HMMD     1",Not Fully Scanned PDF: Text is present,0,"October 4, 2013",13.11 acres,0.99553854,1,[],[],[],southwest.
+16,burlingame,TRUE,TRUE,TRUE,,"approximely 1,800 feet to the southeast of the subject property), groundwer beneh the subject property is inferred to flow toward the north-northeast and is expected to be encountered  depths ranging from 11 to 13 feet below ground surface",,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,1,0,,Not Fully Scanned PDF: Text is present,0,"August 28, 2015",0.16 acres,0.932377882,0,"['flow', 'alluvial', '0.5', 'Listing(s', 'Land', 'deposits', 'RCRA', 'Database', 'County', 'North', 'Quadrangle', '2.3', 'South', 'surface', 'West', 'Urban', 'series', 'Regulatory', 'Groundwater', 'above']",[],['Cenozoic'],north-northeast
+17,sierra_street_no_edr,TRUE,TRUE,TRUE,,"approximely 0.15 mile southeast of the subject property) obtained from Geotracker, groundwer is presumed to be present  an estimed depth of 10- 14 feet below ground surface",,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,1,0,,Not Fully Scanned PDF: Text is present,0,"ovember 10, 2015",9.23 acres,0.932377882,0,"['Southeast', 'flow', 'Street', 'Northwest', 'Listing(s', 'Lincoln', 'Creek', 'clay', 'fluviomarine', 'loam', 'Geotracker', 'land', 'terrace', 'Montara', 'Quadrangle', 'North', '2.3', 'Stetson', 'Depth', 'surface', 'Urban', 'loamy', 'Groundwater', 'above', 'alluvium', 'sandy']",[],[],west-southwest.
+18,cal_highway_no_appendix,TRUE,TRUE,FALSE,,"15690 California Highway 89, Crescent Mills, Plumas County, California",,,,,,,1,,1,"15690 CA-89, Crescent Mills, CA 95934, USA",USA,1,1,0,,Not Fully Scanned PDF: Text is present,0,Apr-17,26.27 acres,1.000000082,0,"['flow', 'Paleozoic', 'sand', 'Indian', 'alluvial', 'assessor', 'eugeosynclinal', 'Taylorsville', 'gravel', 'Creek', 'quadrangle', '2.2.2', 'Legal', 'Mills', 'Sierra', 'Parcels', 'deposits', '2.0', 'County', 'silt', 'Geocon', '2.3', 'Groundwater', 'Mine', 'alluvium', 'Valley', '2002', '2.2.3']","['rates', 'moderate', 'infiltration']","['Paleozoic', 'Silurian', 'Quaternary', 'Tertiary', 'Cretaceous']",southeast
+19,thistledown_diff_edr,TRUE,TRUE,TRUE,,"southwest of the City of Ouray in Ouray County, Colorado",,,,,,,1,,1,"Ouray, CO, USA",USA,0,0,0,,Not Fully Scanned PDF: Text is present,0,Jul-16,29.1 acres,0.903650194,0,"['Lewis', 'talus', 'Rare', 'Creek', 'Maps', 'glacier', 'Uncompahgre', 'Parcels', 'deposits', 'Gunnison', 'slope', 'depth', 'Canyon', 'Mountains', 'Counties', 'River', 'drainages', 'Rocky', 'rock-', 'alluvium', '2002', 'Thistledown']","['steep', '-', 'drained', 'above', 'very', 'indicates']","['Miocene', 'Jurassic', 'Holocene', 'Permian', 'Tertiary']",Not Found
+20,el_nopal,TRUE,TRUE,TRUE,"December 22, 2017","El Nopal 11320 El Nopal Lakeside, CA 92040",32.8617150 - 32˚ 51’ 42.17’’,116.9530280 - 116˚ 57’ 10.90’’,11,504394.8,3635767.2,399,1,Bodhi Group,1,"11320 El Nopal, Lakeside, CA 92040, USA",USA,1,1,0,,Not Fully Scanned PDF: Text is present,0,"January 9, 2018",,0.908325057,1,[],[],[],southward
+21,proctor_valley,TRUE,TRUE,FALSE,,"in unincorpored San Diego County, southwest of the small community of Jamul, California",,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,0,0,"            Item Total
+35          LUST     1
+168  - Totals --     1",Not Fully Scanned PDF: Text is present,0,"August 28, 2019",219.356 acres,0.896834165,0,"['Hydrologic', 'Subarea', '2014', 'silt', 'groundwater', 'Valley', 'Legal', 'below', 'loam']",[],[],southwest.
+22,andalusia_alabama_no_edr,TRUE,TRUE,FALSE,,"within the boundaries of a ‘parent parcel,’ which refers to Parcel 23-13-04-19-1-102- 002.000, totaling approximely 0.74-acres",,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,0,0,,Not Fully Scanned PDF: Text is present,0,"February 20, 2018",0.74 acres,0.970867231,0,"['Recharge', 'saltwater', 'land', 'Urban', 'clay', 'sand', 'loamy', 'groundwater', 'Atlas', 'loam', 'Boulder', 'deposits', 'sandy', '4.2.3', 'marine']","['drained', 'moderately', 'permeable', 'permeability', 'well', 'highly', 'rates']",['Tertiary'],north-northwest.
+23,hopewell_alabama,TRUE,TRUE,TRUE,"January 10, 2013","Hopewell Property Nixon Road SE Bessemer, AL 35022",33.3586000 - 33˚ 21’ 30.96’’,86.9568000 - 86˚ 57’ 24.48’’,16,504019.2,3690851,544,1,Spectrum Environmental Inc.,1,"Nixon Rd, Bessemer, AL 35022, USA",USA,0,1,0,"      Item Total
+31  SWF/LF     1",Not Fully Scanned PDF: Text is present,0,"July 9, 2013",100 acres,0.994485468,1,[],[],[],southerly
+24,north_star_no_edr,TRUE,TRUE,FALSE,,on APN 29-290-26  the City’s WWTP,,,,,,,0,,1,Address not found by Google Places API,Country not Found,0,0,0,,Not Fully Scanned PDF: Text is present,0,"December 30, 2014",70 acres,0.843556263,1,"['gravel', 'fine', 'located', 'loams', 'PG&E', 'Wolf', '2014', 'Creek', 'Vehicle', 'detailed', 'series', 'landslide', 'River', 'Sites', 'medium', 'sandy', 'line']",[],"['Triassic', 'Jurassic', 'Quaternary', 'Cretaceous']",Not Found
+25,attachmentViewRD,TRUE,TRUE,TRUE,,"36B Reservoir Road, Asheville, Buncombe County, North Carolina",35.58273,-82.54718,17S,"3,59,819.92","39,38,770.18","2,441",1,,1,"36 Reservoir Rd, Asheville, NC 28803, USA",USA,1,1,0,,Not Fully Scanned PDF: Text is present,1,"February 14, 2017",7.42 acres,0.983657166,1,[],[],[],westerly
+26,berk_fallbrook,TRUE,TRUE,TRUE,"January 21, 2014","14-010SD - VM - Berk - Fallbrook 1650 Winter Haven Rd Fallbrook, CA 92028",33.3487000 - 33˚ 20’ 55.32’’,117.2238000 - 117˚ 13’ 25.68’’,11,479175.7,3689775,664,1,,1,"1650 Winter Haven Rd, Fallbrook, CA 92028, USA",USA,1,0,0,"                   Item Total
+66   San Diego Co. HMMD     5
+70             HIST UST     2
+71           SWEEPS UST     1
+100               FINDS     1
+105               NPDES     2
+113              HAZNET     2",Not Fully Scanned PDF: Text is present,0,"April 17, 2014",26.48 acres,0.971094325,1,"['Fault', 'Photographs', '5.4.1', 'Ranges', 'groundwater', 'batholith', 'Maps', 'Diego', 'Geomorphic', 'Board-', 'land', 'Province', 'Alluvial', 'Record', 'Canyon', 'Quadrangle', 'River', 'California', 'Aerial', '5.3.2']",[],"['Tertiary', 'Mesozoic', 'Quaternary', 'Cretaceous']",toward the south and west
+27,tomlinson,TRUE,TRUE,FALSE,,on the subject site,,,,,,,1,,1,Address not found by Google Places API,Country not Found,1,1,0,,Not Fully Scanned PDF: Text is present,0,"DECEMBER 30, 2014",,0.825009398,1,"['fine', 'Jennings', 'Very', 'sand', 'Buena', 'Ranges', 'fault', 'gravel', 'clay', 'Tomlinson', 'Kennedy', 'zones', 'Diego', 'loam', 'Bedrock', 'Friant', 'Elsinore', 'GAMA', 'SETTING', 'Geotracker', 'basin', 'Holly', 'Alluvial', 'Record', 'silt', 'Canyon', 'very', 'inches', 'geomorphic', 'Huerhuero', 'Low', 'Board', 'uses', 'Moderately', 'Margaret', 'alluvium', 'Geology', 'sandy', 'Wyman']","['Bedrock', 'Moderately', 'Drained', 'Well']","['Pleistocene', 'Mesozoic', 'Quaternary']",Not Found
+28,eliz_tennessee_no_edr,TRUE,TRUE,FALSE,,in the town of Elizabethton in north eastern Tennessee,,,,,,,1,,1,"3211 N Roan St, Johnson City, TN 37601, United States",United States,1,0,0,,Not Fully Scanned PDF: Text is present,0,Not Found,2.62 acres,0.886943236,0,"['acres', 'Characteristics', 'B.', 'County', 'Watauga', 'Ridge', 'Elder', 'very', 'legal', 'Legal', 'Blue', 'River', 'Elizabethton', 'Tennessee', 'Lat./Long', 'Appalachian', 'Ridges']",[],"['Ordovician', 'Cambrian']",Not Found
+29,hillview_avenue,TRUE,TRUE,TRUE,"September 05, 2017","Hillview Avenue Property 97 Hillview Avenue Los Altos, CA 94022",37.3802230 - 37˚ 22’ 48.80’’,122.1116310 - 122˚ 6’ 41.87’’,10,578651,4137219.2,174,1,Ninyo & Moore,1,"97 Hillview Ave, Los Altos, CA 94022, United States",United States,1,1,1,"Empty DataFrame
+Columns: [Item, Total]
+Index: []",Not Fully Scanned PDF: Text is present,0,"September 25, 2017",8.8 acres,0.831046171,0,"['Fault', 'Ranges', 'groundwater', 'Trabzada', 'Knowledge', 'Sabe', 'Franciscan', 'clay', 'depths', 'deposits', 'Lake', 'loam', 'Record', 'Arena', 'geomorphic', 'Liens', 'Waters', 'Groundwater', 'California', 'Block', '4.3', 'alluvium', 'Valley', '2002', 'Range', 'volcanic', 'Botella']",[],"['Cenozoic', 'Mesozoic', 'Quaternary']",(northeast).
