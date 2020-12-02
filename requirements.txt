@@ -2,3 +2,4 @@ flask
 pandas
 os
 numpy
+bs4
