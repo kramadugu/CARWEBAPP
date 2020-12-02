@@ -6,3 +6,4 @@ tabula-py
 spacy
 numpy
 bs4
+sumy
