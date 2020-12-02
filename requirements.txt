@@ -1,5 +1,8 @@
 flask
 pandas
 os
+gensim
+tabula-py
+spacy
 numpy
 bs4
