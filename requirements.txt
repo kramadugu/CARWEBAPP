@@ -1,6 +1,5 @@
 flask
 pandas
-os
 gensim
 tabula-py
 spacy
