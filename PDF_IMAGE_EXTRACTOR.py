@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 from pikepdf import Pdf, PdfImage, Name
 from concurrent.futures import ThreadPoolExecutor
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 #======================================================#
 
 #======Method to Extract Images from PDF===============#
