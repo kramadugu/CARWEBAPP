@@ -14,7 +14,7 @@ from flask import Flask,request,render_template,redirect,url_for,render_template
 from werkzeug.utils import secure_filename
 from bs4 import BeautifulSoup
 import pandas as pd
-from sklearn.datasets import load_iris
+#from sklearn.datasets import load_iris
 from PDF_IMAGE_EXTRACTOR import *
 from auxmethods import *
 from summarizer import *
