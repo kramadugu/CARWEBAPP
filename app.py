@@ -33,7 +33,7 @@ topics = None
 with open('topicmodels.pkl','rb') as f:
     topics = pickle.load(f)
 
-boring_logs = {"T0600101493":("T0600101493.PDF",pd.read_csv("files\\output csv along with pdf\\Template 1\\df3.csv").drop_duplicates()),"T0609500432_27":("WELL REPLACEMENT REPORT - T0609500432_27.pdf",pd.read_csv("files\\output csv along with pdf\\Template 2\\df3.csv").drop_duplicates()),"T0609500432_30":("WELL REPLACEMENT REPORT - T0609500432_30.pdf",pd.read_csv("files\\output csv along with pdf\\Template 2\\df4.csv").drop_duplicates())}
+boring_logs = {"T0600101493":("T0600101493.PDF",pd.read_csv("files/output csv along with pdf/Template 1/df3.csv").drop_duplicates()),"T0609500432_27":("WELL REPLACEMENT REPORT - T0609500432_27.pdf",pd.read_csv("files/output csv along with pdf/Template 2/df3.csv").drop_duplicates()),"T0609500432_30":("WELL REPLACEMENT REPORT - T0609500432_30.pdf",pd.read_csv("files/output csv along with pdf/Template 2/df4.csv").drop_duplicates())}
 imtags = dict([(k.split('.')[0],pd.read_csv(os.path.join('files/IMTAGS',k))) for k in os.listdir('files/IMTAGS')])
 
 
